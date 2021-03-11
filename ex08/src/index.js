@@ -12,7 +12,7 @@ function main(){
         myX,
         myY,
         myZ
-    }
+    };
 }
 
 console.log(main());
